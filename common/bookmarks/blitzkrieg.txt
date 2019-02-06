@@ -1,0 +1,5 @@
+# this is temporary until I find a solution to keep only 1 bookmark
+bookmarks = {
+	bookmark = {
+  }
+}
