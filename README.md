@@ -1,1 +1,23 @@
 # Hearts of Iron IV : Between Two Wars
+## Objectif : Create a mod for Hearts of Iron IV based on the interwar period which occured from 1918 to 1936
+- To do :
+	- Research about the interwar period (Indy's channel may help -> between two wars [this could be an interesting title!?])
+	- Research :
+		- events (wars, alliances, conflicts,...)
+		- weapons used
+		- technology available
+		- political leaders and parties
+		- more ?
+	- Establish which country to make a national focus on (the following are intial ideas based on own knowledge):
+		- Japan
+		- USA
+		- France
+		- United Kingdom
+		- Soviet Union / White russia
+		- Germany
+		- Italy
+		- Turkey
+		- China
+		- Poland
+		- Ukraine
+		- more ?
