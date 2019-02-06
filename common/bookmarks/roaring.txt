@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "ROARING_DESC"
 		date = 1918.11.11.12
 		picture = "GFX_select_date_1939"
-		default_country = "GER"
+		default_country = "JAP"
 
 #		FRA = {
 #			history = FRA_BLITZKRIEG_DESC
